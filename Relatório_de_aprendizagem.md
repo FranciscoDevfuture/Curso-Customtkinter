@@ -11,3 +11,4 @@ print da minha primeira janela em execução:
 # Aula 2 
 Aprendi a definir as dimensões máximas e mínimas da janela
 
+![Curso-Customtkinter](./dimensoes.png)
