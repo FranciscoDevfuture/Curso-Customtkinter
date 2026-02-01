@@ -2,4 +2,8 @@
 depois, criei a janela, e um botão com o nome de 'Olá Mundo!'.
 
 print da minha primeira janela em execução:
+
+
+
+
 ![Curso-Customtkinter](./primeira_janela.png)
