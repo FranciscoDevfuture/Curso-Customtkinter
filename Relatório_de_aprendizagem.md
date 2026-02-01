@@ -7,3 +7,7 @@ print da minha primeira janela em execução:
 
 
 ![Curso-Customtkinter](./primeira_janela.png)
+
+# Aula 2 
+Aprendi a definir as dimensões máximas e mínimas da janela
+
