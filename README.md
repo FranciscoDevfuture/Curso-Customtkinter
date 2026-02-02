@@ -1,4 +1,6 @@
 # Curso Customtkinter
 CUSTOMTKINTER É UMA BIBLIOTECA PYTHON QUE ESTENDE A FUNCIONALIDADE DO TKINTER, PERMITINDO PERSONALIZAR A APARÊNCIA DOS ELEMENTOS DA INTERFACE GRÁFICA.
-canal youtube @setprogramacao
+
+
+Curso feito pelo através do @setprogramacao
 
