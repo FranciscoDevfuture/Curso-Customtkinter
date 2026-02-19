@@ -12,3 +12,4 @@ print da minha primeira janela em execução:
 Aprendi a definir as dimensões máximas e mínimas da janela
 
 ![Curso-Customtkinter](./dimensoes.png)
+<img width="768" height="304" alt="image" src="https://github.com/user-attachments/assets/e8451923-d212-4a85-837c-d90b277df986" />
