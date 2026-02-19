@@ -15,3 +15,7 @@ Aprendi a definir as dimensões máximas e mínimas da janela
 
 Na Aula 4 aprendi a criar uma nova Janela e custumiza-la com cores e bordas
 <img width="768" height="304" alt="image" src="https://github.com/user-attachments/assets/e8451923-d212-4a85-837c-d90b277df986" />
+
+Na Aula 5 aprendi a criar frames, adicionei 5 frames e custumizei com cores e bordas
+<img width="1138" height="165" alt="image" src="https://github.com/user-attachments/assets/89529a86-2bc7-4dc5-921d-2600c7b58492" />
+
